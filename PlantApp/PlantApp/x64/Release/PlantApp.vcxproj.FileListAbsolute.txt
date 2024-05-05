@@ -1,0 +1,5 @@
+C:\Users\mirov\source\repos\PlantApp\PlantApp\x64\Release\PlantApp.vcxproj.AssemblyReference.cache
+C:\Users\mirov\source\repos\PlantApp\PlantApp\x64\Release\PlantApp.LoginForm.resources
+C:\Users\mirov\source\repos\PlantApp\PlantApp\x64\Release\PlantApp.RegisterForm.resources
+C:\Users\mirov\source\repos\PlantApp\PlantApp\x64\Release\PlantApp.vcxproj.GenerateResource.cache
+C:\Users\mirov\source\repos\PlantApp\PlantApp\x64\Release\PlantApp.vcxproj.Up2Date

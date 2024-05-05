@@ -1,0 +1,4 @@
+﻿  LoginForm.cpp
+  RegisterForm.cpp
+  Создание кода...
+LINK : fatal error LNK1104: не удается открыть файл "C:\Users\mirov\source\repos\PlantApp\x64\Debug\PlantApp.exe"
